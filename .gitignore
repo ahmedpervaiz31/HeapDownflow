@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Django
+*.log
+db.sqlite3
+*.pot
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Node
+node_modules/
+dist/
+.npm
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Docker
+*.pid
+
